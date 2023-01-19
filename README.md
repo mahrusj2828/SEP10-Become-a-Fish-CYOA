@@ -1,1 +1,5 @@
-# SEP10-Become-a-Fish-CYOA
+# Choose Your Adventure
+
+## Click HERE to begin
+
+## Click HERE to view plan
