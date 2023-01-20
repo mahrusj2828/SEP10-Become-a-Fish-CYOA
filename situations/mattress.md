@@ -1,4 +1,4 @@
-# You land on a mattress. You are lucky it was there..
+# You fall on a mattress! Which path should you take?
 
 ### [Roll on the cables](cable.md)
 
