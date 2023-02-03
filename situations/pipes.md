@@ -2,4 +2,4 @@
 
 ### [You go to the left pipe](../ocean.md)
 
-### [You go to the right pipe](sewer.md)
+### [You go to the right pipe](../sewer.md)
