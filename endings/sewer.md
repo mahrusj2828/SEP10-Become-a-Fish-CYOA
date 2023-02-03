@@ -1,3 +1,3 @@
 # You ended up in the sewers! You die of sewer poisoning...
 
-### [Wake up and restart](start.md)
+### [Wake up and restart](../start.md)
