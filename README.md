@@ -5,4 +5,3 @@
 ## Click [HERE](https://docs.google.com/drawings/d/1_S0Ddn2YpDFUu0qU592lhuU31Tz-_WNeHiB_T-U7OlA/edit) to view plan
 
 ## Made by [Mahrus Jahan](https://github.com/mahrusj2828) and [William Zheng](https://github.com/williamz2198)
-### Purpose: Practice in partner collaboration with merging and linking files
